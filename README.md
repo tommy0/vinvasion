@@ -1,2 +1,2 @@
 # vinvasion
-"V. Invasion" (tower defence)
+"V. Invasion" (tower defence game)
